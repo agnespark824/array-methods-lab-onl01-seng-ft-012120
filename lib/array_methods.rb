@@ -11,13 +11,13 @@ def using_reverse(array)
 end
 
 def using_first(array)
-  array.options_from_collection_for_select
+  array.first
 end
 
 def using_last(array)
-
+  array.last
 end
 
 def using_size(array)
-
+  array.
 end
